@@ -1,0 +1,4 @@
+kernel/drivers/thermal/thermal_sys.ko
+kernel/drivers/thermal/pmic8901-tm.ko
+kernel/drivers/thermal/pmic8058-tm.ko
+kernel/drivers/thermal/msm_tsens.ko

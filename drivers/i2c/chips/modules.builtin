@@ -1,0 +1,4 @@
+kernel/drivers/i2c/chips/tpa2051d3.ko
+kernel/drivers/i2c/chips/isl29028.ko
+kernel/drivers/i2c/chips/isl29029.ko
+kernel/drivers/i2c/chips/tps65200.ko

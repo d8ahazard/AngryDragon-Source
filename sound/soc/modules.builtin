@@ -1,0 +1,4 @@
+kernel/sound/soc/snd-soc-core.ko
+kernel/sound/soc/msm/snd-soc-msm8x60-dai.ko
+kernel/sound/soc/msm/snd-soc-msm8x60-pcm.ko
+kernel/sound/soc/msm/snd-soc-msm8x60.ko

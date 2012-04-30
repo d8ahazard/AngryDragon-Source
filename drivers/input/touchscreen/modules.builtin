@@ -1,0 +1,2 @@
+kernel/drivers/input/touchscreen/atmel.ko
+kernel/drivers/input/touchscreen/atmel_224e.ko

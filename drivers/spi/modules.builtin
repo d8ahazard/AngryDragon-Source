@@ -1,0 +1,2 @@
+kernel/drivers/spi/spi_aic3254.ko
+kernel/drivers/spi/spidev.ko
