@@ -1,3 +1,0 @@
-kernel/drivers/video/msm_8x60/msm_rotator.ko
-kernel/drivers/video/msm_8x60/vidc/vidc_vdec.ko
-kernel/drivers/video/msm_8x60/vidc/vidc_venc.ko
